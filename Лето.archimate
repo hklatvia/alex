@@ -7,7 +7,7 @@
     <element xsi:type="archimate:BusinessEvent" name="Summer" id="4a636d9e-7db2-44d5-a8e4-0e18549d51e0"/>
     <element xsi:type="archimate:BusinessProcess" name="Leisure at the computer." id="54e62ee9-44b1-434f-a8d3-e3d92ebb25cc"/>
     <element xsi:type="archimate:BusinessActor" name="Это я" id="873348b8-0a18-4c16-a8b7-0765caac022c"/>
-    <element xsi:type="archimate:BusinessRole" name="Студент" id="31d90abf-cf01-4a59-9f36-e24dc927c3f8"/>
+    <element xsi:type="archimate:BusinessRole" name="ава" id="31d90abf-cf01-4a59-9f36-e24dc927c3f8"/>
     <element xsi:type="archimate:BusinessInterface" name="Курсы по изучению" id="8a00714a-62ec-4851-862c-340c8019bcc4"/>
     <element xsi:type="archimate:BusinessService" name="Изучение языка Swift" id="4b582392-9dc4-4768-ac6a-29ed2170fc14"/>
     <element xsi:type="archimate:BusinessFunction" name="Процесс изучения языка Swift" id="39ee49e8-e4ea-487e-a49e-08cfd169d7a9"/>
