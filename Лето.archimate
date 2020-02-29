@@ -18,7 +18,7 @@
   </folder>
   <folder name="Application" id="dbcab8af-75ee-4be9-bc20-5ede47f66ccc" type="application">
     <element xsi:type="archimate:ApplicationService" name="Посещение сайта" id="4d1589e6-b0af-4c3b-aabe-aa924344fcc5"/>
-    <element xsi:type="archimate:ApplicationService" name="Просмотр видео" id="e578b557-9973-4e55-a426-6b6c534ffaa6"/>
+    <element xsi:type="archimate:ApplicationService" name="Прваывывамотр видео" id="e578b557-9973-4e55-a426-6b6c534ffaa6"/>
     <element xsi:type="archimate:ApplicationService" name="Прочтение документации" id="97f9eb96-bb20-407e-bc17-29df5ee5c29f"/>
   </folder>
   <folder name="Technology &amp; Physical" id="569935d1-9660-4275-8dd9-115b731dc556" type="technology">
